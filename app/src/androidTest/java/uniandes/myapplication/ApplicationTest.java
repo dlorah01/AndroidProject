@@ -1,4 +1,4 @@
-package dlorahnailuj.myapplication;
+package uniandes.myapplication;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
